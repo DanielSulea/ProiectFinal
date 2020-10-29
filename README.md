@@ -1,18 +1,3 @@
-#Instructiuni
-Dati clone si apoi `npm install` dupa care:
-Ca sa va mearga proiectul trebuie sa va creati un fisier numit .env acolo unde e si package.json si in el sa definiti niste variabile dupa cum urmeaza:
-
-```
-REACT_APP_FBapiKey=????
-REACT_APP_FBauthDomain=????
-REACT_APP_FBdatabaseURL=????
-REACT_APP_FBprojectId=????
-REACT_APP_FBstorageBucket=????
-REACT_APP_FBmessagingSenderId=????
-REACT_APP_FBappId=????
-```
-
-In loc de ???? luati valorile pe care vi le da firebase.
 
 ---
 
